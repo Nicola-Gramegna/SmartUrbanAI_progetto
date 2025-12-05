@@ -1,0 +1,5 @@
+{
+  "name": "SmartUrban AI",
+  "description": "An intelligent urban parking management system integrating real data and Gemini AI for natural language queries.",
+  "requestFramePermissions": []
+}
